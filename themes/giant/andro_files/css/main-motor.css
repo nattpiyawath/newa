@@ -1,0 +1,273 @@
+@media screen and (min-width: 1280px){
+    .collapse.navbar-collapse li.gf-lang a {
+        position: relative;
+        top: -2px;
+    }
+    a.navbar-brand.top-hongda-logo img {
+        margin-bottom: -8px;
+    }
+    .top-menu-bar {
+        padding: 8px 0;
+    }
+    div#navbarTogglerDemo03 {
+        position: relative;
+        top: 3px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .row.slick-slide .slide {
+        min-height: 210px;
+    }
+    .safety-riding {
+        padding-bottom: 0;
+    }
+    
+    .select-color h5{font-size:2.4rem;}
+    .mobile-main-feature h1, .slick-slider h1 {
+        font-size: 2.4rem !important;
+        font-weight: 600!important;
+    }
+    
+    .navbar-mobile a{font-size:1.6rem!important;}
+}
+
+@media screen and (min-width: 320px) and (max-width: 699px){
+    
+    .specification .nav-link {
+        font-size: 15px!important;
+    }
+
+    li.language.gf-lang.active-language-2 a {
+        color: #ed2b3f!important;
+        font-weight: bolder;
+    }
+    .all-lang-2{
+        display: block!important;
+        position: absolute;
+        top: 2px;
+        z-index: 9999;
+        right: 20%;
+    }
+    
+    .all-lang-2 ul{
+        display: contents;
+    }
+
+    .all-lang-2 li .active-language-2 a {
+        color: #e32b3c !important;
+        background: #fff!important;
+    }
+    
+    .all-lang-2 ul li a {
+        width: 22px;
+        height: 22px;
+        color: #000 !important;
+        padding: 0;
+        border: solid 1px #edf8dc;
+        border-radius: 50%;
+        margin: 0 2px;
+        font-size: 12px;
+    }
+    .all-lang-2 ul li {
+        list-style: none;
+        float: left; 
+    }
+    
+    body {
+        overflow: hidden;
+    }
+    
+    .col-sm-4.right, .col-sm-4.left {
+        padding-top: 10px;
+        height: 27vh;
+    }
+
+  
+    .right .word-desc h1{
+        margin-right: 0px!important;
+        text-align: center;
+        width: 28%!important;
+        padding-bottom: 4px;
+        float: right;
+    }
+    
+    .left .word-desc h1{
+        margin-left: 0!important;
+        text-align: center;
+        width: 30%!important;
+        padding-bottom: 4px;
+    }
+    
+    .left p{
+        margin-left: 0!important;
+        text-align: center;
+        width: 32%!important;
+        padding-left: 14px!important;
+    }
+    
+    .right p{
+        margin-right: 2px!important;
+        text-align: center;
+        width: 32%!important;
+        padding-right: 10px!important;
+        float: right;
+    }
+    
+    .main-feature2.feature-product p {
+        font-size: 8px;
+        line-height: 12px;
+        text-shadow: 1px 1px 1px #3e3e3edb;
+    }
+    .word-desc h1 {
+        font-size: 22px !important;
+        line-height: 20px;
+    }
+    .search .side-nav{
+        position: absolute;
+        right: 116px;
+        top: -6px;
+        z-index: 99999;
+        width: 25px;
+    }
+    .slick-active .summary {
+        padding: 0 12px;
+    }
+    .media-mobile li{border: none!important;}
+    .container-fluid.container.sparts {
+        width: 340px;
+    }
+    a.navbar-brand.ncx-logo img {
+        max-width: 164px !important;
+    }
+    a.navbar-brand.ncx-logo img {
+        width: 200px !important;
+    }
+    a.navbar-brand.top-hongda-logo img {
+        margin-bottom: -6px;
+    }
+    a.navbar-brand.top-hongda-logo img {
+        max-width: 98px !important;
+    }
+    .side-nav .nav-search .centered #search-box form .form-control {
+        margin: 0;
+    }
+    .main-nav.three .side-nav .nav-search .centered #search-box form .btn {
+        background-color: #ec1b30;
+    }
+    
+    .product-menu.main-nav nav ul {
+        display: grid;
+        padding-top: 0;
+        width: 100%;
+    }
+    
+    h1.model-detail-title {
+        display: none;
+    }
+    
+    .product-menu.main-nav.menu-shrink {position: fixed!important;}
+    
+    #navbarTogglerDemo04 .navbar-nav {
+        position: fixed!important;
+        background: #fff;
+        z-index: 9999;
+        width: 100%;
+        left:0;
+        overflow: hidden;
+        top: 8%;
+    }
+    
+    .product-nav-bar li {
+        float: left;
+        border-bottom: solid 1px #e8e7e7;
+    }
+    
+    .product-nav-bar li:last-child {
+        border-bottom: none;
+    }
+    
+    .main-nav nav .navbar-nav .nav-item {
+        border-bottom: solid 1px #d5d5d5;
+        font-size: 12px;
+    }
+
+    .select-color input[type="button"] {
+        width: 30px!important;
+        height: 30px!important;
+        margin-right: 16px!important;
+    }
+
+    table.table-speci th, .table-speci td {
+        font-size: 12px;
+        font-weight: 400!important;
+    }
+
+    table.table-speci tr {
+        height: 40px!important;
+    }
+    
+    .main-feature2.feature-product p {
+        padding: 10px;
+        text-shadow: none;
+        padding-top:4px;
+    }
+
+    h5.model-no {
+        color: rgb(32 32 32);
+        font-weight: bold;
+        font-size: 14px!important;
+    }
+    .card-header {
+        padding: 0!important;
+    }
+
+    h5.mb-0 {
+        font-size: 14px;
+        color: #262626;
+        font-weight: bold;
+    }
+    .feature-product{background-size:cover!important;}
+    
+    .main-feature2.feature-product h1, .main-feature2.feature-product h1 span {
+        filter: none;
+        font-size: 14px !important;
+        line-height: 12px;
+    }
+    
+   
+}
+
+@media screen and (min-width: 1280px){
+    .product-nav-bar li {
+        padding: 17px 10px!important;
+    }
+    
+    .main-nav nav .navbar-nav .nav-item a {
+        line-height: 26px;
+    }
+    .product-menu.main-nav.menu-shrink {
+        z-index: 99;
+    }
+    
+    a.navbar-brand.ncx-logo img {
+        width: 266px !important;
+    }
+
+}
+
+.hide-section{display: none;}
+
+/* Safari browser */
+@media not all and (min-resolution:.001dpcm) { 
+    @supports (-webkit-appearance:none) {
+        .footer-area .footer-item .footer-link ul li a, .footer-area .footer-item h3, h1.head-titel-page, .home-section h1, .slick-active .title, 
+        .vertical-text li a, .title, .smart-feature a.btn, table.table-speci th, h5.model-no, .page-title-area .title-content h2, h1.title-content{
+            letter-spacing: -0.8px!important;
+        }
+        .col-sm-4.right, .col-sm-4.left {
+            padding-top: 16px;
+        }
+        .col-sm-4.left{padding-top:24px;}
+    }
+}

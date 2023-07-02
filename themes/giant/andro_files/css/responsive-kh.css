@@ -1,0 +1,12 @@
+h1.head-titel-page3 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+@media screen and (max-width: 768px){
+    h1.head-titel-page1 {
+        letter-spacing: -0.6px!important;
+    }
+}

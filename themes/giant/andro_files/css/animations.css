@@ -1,0 +1,90 @@
+/*fadein up*/
+.fadein{opacity: 0;transform: scale(1.1);transition: all 2s;}
+.fadeout{transition: all 2s;transform: scale3d(1,1,1);opacity: 1;}
+
+/*fadein right*/
+.textfadein{opacity: 0;transform: translateX(100px);transition: all 2s;}
+.textfadeout{opacity: 1;transform: translateX(0px);}
+
+.fadeinload{opacity: 0;transform: translateX(100px);transition: all 2s;}
+.fadeoutload{opacity: 1;transform: translateX(0px);}
+
+/*fadein up Text*/
+.fadeinTextup{opacity: 0;transform: translateY(50px);transition: all 0.7s ease-in;}
+.fadeinOutup{opacity: 1;transform: translateY(0px);}
+
+/*fadein up chase*/
+.customCard{opacity: 0;transform: translateY(50px);transition: all 0.4s ease-in;}
+.is-showing{opacity: 1;transform: translateY(0px);}
+
+/*fadain left*/
+.feadeProfadein{opacity: 0;transform: translateX(-100px);transition: all 0.4s ease-in;}
+.feadeProfadeout{opacity: 1;transform: translateX(0px);}
+
+
+/*fadain up bottom overflow top*/
+.word-desc {
+    display: inline-block;
+    overflow: hidden;
+}
+.ProfeatuetextIN {
+    transform: translateY(100%);
+    transition: all 1s ease;
+}
+.ProfeatuetextOUT {
+    transform: translateY(0%);
+    vertical-align: middle;
+    transition: all 1s ease;
+}
+
+.fadeincolorPro{opacity: 0;transform: translateY(100px);transition: all 0.4s ease-in;}
+.fadeoutcolorPro{opacity: 1;transform: translateY(0px);}
+
+.slick-slide .text .fadein.fadeout {opacity: 0;transform: translateY(100px);}
+.slick-current.slick-active .text h1.fadein.fadeout{opacity: 1;transform: translateY(0px);transition: all 0.4s ease-in;}
+.slick-current.slick-active .text p.fadein.fadeout{opacity: 1;transform: translateY(0px);transition: all 0.6s ease-in;}
+.slick-current.slick-active .text a.fadein.fadeout{opacity: 1;transform: translateY(0px);transition: all 0.7s ease-in;}
+
+.col-sm-3.fadeinTextup.fadeinOutup:nth-child(1){opacity: 1;transform: translateY(0px);transition: all 0.4s ease-in;}
+.col-sm-3.fadeinTextup.fadeinOutup:nth-child(2){opacity: 1;transform: translateY(0px);transition: all 0.5s ease-in;}
+.col-sm-3.fadeinTextup.fadeinOutup:nth-child(3){opacity: 1;transform: translateY(0px);transition: all 0.6s ease-in;}
+.col-sm-3.fadeinTextup.fadeinOutup:nth-child(4){opacity: 1;transform: translateY(0px);transition: all 0.7s ease-in;}
+.col-sm-3.fadeinTextup.fadeinOutup:nth-child(5){opacity: 1;transform: translateY(0px);transition: all 0.8s ease-in;}
+
+
+@keyframes bobbingAnim {
+   100% {
+       transform: unset;
+       animation-timing-function:ease-in-out;
+       opacity:0.7;
+   }
+   0% {
+       transform: scale(1.08);
+       animation-timing-function:ease-in-out;
+       opacity:1;
+       overflow:hidden;
+   }
+}
+li.tab-pane.appear.show.active, #my-image-preview.active{
+    animation: bobbingAnim ease-in-out .5s ;
+    -moz-animation: bobbingAnim ease-in-out .5s ;
+    -webkit-animation: bobbingAnim ease-in-out .5s ;    
+}
+ .preview-color.fadeinTextup.fadeinOutup.active1{
+    animation: bobbingAnim ease-in-out .5s ;
+    -moz-animation: bobbingAnim ease-in-out .5s ;
+    -webkit-animation: bobbingAnim ease-in-out .5s ;    
+}
+.customCard {
+  opacity: 0.8;
+}
+
+.is-showing {
+  opacity: 1;
+  -webkit-transition: all ease 0.6s;
+  -moz-transition: all ease 0.6s;
+  -ms-transition: all ease 0.6s;
+  -o-transition: all ease 0.6s;
+  transition: all ease 0.6s;
+}
+

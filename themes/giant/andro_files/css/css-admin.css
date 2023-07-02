@@ -1,0 +1,9 @@
+html, body{
+     overflow-y: unset!important;
+     overflow-x: unset!important;
+     overflow: unset!important;
+}
+.hide-section{
+    display:block!important;
+    opacity: 0.2;
+}

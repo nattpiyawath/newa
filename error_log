@@ -1,0 +1,272 @@
+[15-Mar-2021 02:31:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 49152 bytes) in /home/giantcms/public_html/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php on line 6397
+[24-Mar-2021 07:33:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:34:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:34:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:34:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:34:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:34:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:35:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:35:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:35:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:35:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:35:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:36:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[24-Mar-2021 07:36:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 617
+[25-Mar-2021 07:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:53:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:54:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[25-Mar-2021 07:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpb_config() in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php:6
+Stack trace:
+#0 /home/giantcms/public_html/vendor/composer/autoload_real.php(71): require()
+#1 /home/giantcms/public_html/vendor/composer/autoload_real.php(61): composerRequire8b9aa68554bf670a4682420ca4ba59b0('a0dfc604d59f03e...', '/home/giantcms/...')
+#2 /home/giantcms/public_html/vendor/autoload.php(7): ComposerAutoloaderInit8b9aa68554bf670a4682420ca4ba59b0::getLoader()
+#3 /home/giantcms/public_html/public/index.php(24): require('/home/giantcms/...')
+#4 /home/giantcms/public_html/index.php(21): require_once('/home/giantcms/...')
+#5 {main}
+  thrown in /home/giantcms/public_html/vendor/hansschouten/phpagebuilder/src/Core/helpers.php on line 6
+[07-Apr-2021 08:23:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:23:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:23:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:23:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:23:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:23:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:24:45 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:24:51 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
+[07-Apr-2021 08:25:05 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/giantand/public_html/vendor/composer/platform_check.php on line 24
